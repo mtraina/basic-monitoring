@@ -1,0 +1,4 @@
+Simple Monitoring Stack with Prometheus, Grafana, and Alertmanager using Docker Compose
+
+References
+- https://medium.com/@ravipatel.it/building-a-monitoring-stack-with-prometheus-grafana-and-alerting-a-docker-compose-ef78127e4a19
