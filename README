@@ -2,3 +2,7 @@ Simple Monitoring Stack with Prometheus, Grafana, and Alertmanager using Docker 
 
 References
 - https://medium.com/@ravipatel.it/building-a-monitoring-stack-with-prometheus-grafana-and-alerting-a-docker-compose-ef78127e4a19
+- https://www.youtube.com/watch?v=RfucIfMNqsc
+- https://bookstack.thebinghamproject.com/books/monitoring-systems-using-grafana-infulxdb-and-prometheus/page/prometheus-node-exporter-on-raspberrypi-4
+- https://github.com/prometheus/node_exporter/releases
+- https://grafana.com/grafana/dashboards/1860-node-exporter-full/
